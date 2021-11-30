@@ -36,14 +36,7 @@ function colorChange() {
     {
       currentColor = "black";
     } 
-    else if (mouseY > 150 && mouseY < 200) 
-    {
-      currentColor = "red";
-    } 
-    else if (mouseY > 200 && mouseY < 250) 
-    {
-      currentColor = "blue";
-    } 
+     
     
 }
 
